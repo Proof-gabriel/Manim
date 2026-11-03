@@ -1,0 +1,13 @@
+# Ficheiros gerados pelo Manim
+media/
+partial_movie_files/
+ManimCE_*.log
+
+# Cache do Python e LaTeX
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
